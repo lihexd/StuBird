@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>bird</title>
+		<meta name="viewport" content="width=device-width, initial-scale=0.96,user-scalable=no">
+		<link rel="stylesheet" href="js/Remodal-master/Remodal-master/dist/remodal.css" />
+		<link rel="stylesheet" href="js/Remodal-master/Remodal-master/dist/remodal-default-theme.css" />
+		<script type="text/javascript" src="js/jquery.min.js" ></script>
+		<style type="text/css">
+			#game {
+				z-index：1111;
+			}
+		</style>
+		
+	</head>
+	<body>
+        <div class="wrapper" style="width:360px;margin:0 auto;position:relative;">
+        	<p id="score" style="color:white;position:absolute;top:0px;left:0px;font-size:40px;">0</p>
+            <canvas id="game" width="360" height="620"></canvas>
+        </div>
+        <div class="remodal-bg">
+        	<div class="remodal" data-remodal-id="modal" data-remodal-options="closeOnOutsideClick:false">
+            <button data-remodal-action="close" class="remodal-close"></button>
+            <div class="intro">
+            	<h1>HTML5学习版Flappy Bird</h1>
+                <p>
+                    每次过关死去时当问题答对分数不清零，答错清零
+                </p>
+                <p>任意点击一个键开始</p>
+            </div>
+            <div class="test" >
+            	<h1>HTML小知识</h1>
+            	<div id="1" style="display:none;">
+            		<p>
+                                        在canvas中获取上下文的函数是canvas.getContext()吗？
+                    </p>
+            	</div>
+            	<div id="2" style="display:none;">
+            		<p>
+                                        在canvas中描绘图片的函数是canvas.drawImage()吗？
+                    </p>
+            	</div>
+            	<div id="3" style="display:none;">
+            		<p>
+                                        在canvas中描绘矩形的函数是canvas.fillReact()吗？
+                    </p>
+            	</div>
+            
+            </div>
+            <br>
+            <button data-remodal-action="confirm" class="remodal-confirm" id="False">False</button>
+            <button data-remodal-action="confirm" class="remodal-confirm" id="True">True</button>
+            </div>
+        </div>
+        <div class="images" style="display:none;">
+        	<img src="img/bird.png" />
+        	<img src="img/background.png" />
+        </div>
+	    <script type="text/javascript" src="js/Remodal-master/Remodal-master/dist/remodal.min.js"></script>
+	    <script type="text/javascript" src="js/main.js" ></script>
+	    <script type="text/javascript">
+            document.addEventListener('tizenhwkey', function(e) {
+				if(e.keyName == "back") {
+					try {
+						tizen.application.getCurrentApplication().exit();
+					} catch (error) {
+						console.error("getCurrentApplication(): " + error.message);
+					}
+				}
+			});
+		</script>
+	</body>
+</html>

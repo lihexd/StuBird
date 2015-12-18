@@ -1,0 +1,206 @@
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="AuthorSignature">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
+<Reference URI="config.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3yQRenvynxv8DEIGQBtrp/qQ7jFDdrnE0BK94GoZkoA=</DigestValue>
+</Reference>
+<Reference URI="css%2Fstyle.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>EoKPwrKP/aOKxw/b18tw9oQyezRzZbJXQLp9/FTPgZA=</DigestValue>
+</Reference>
+<Reference URI="icon.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VG/MziM3w2d3Qy+cvjG2b3bJWTotxdM42/cteqpzwS4=</DigestValue>
+</Reference>
+<Reference URI="img%2Fbackground.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Ad82Edf5+W/ztesvXvg9Gi9pTHUzxOH7QWwGZ0cktrQ=</DigestValue>
+</Reference>
+<Reference URI="img%2Fbird.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>vpocDBTiWuQ38juxcdzcgyJiCljjgnDIbkup9dym3bc=</DigestValue>
+</Reference>
+<Reference URI="img%2Fredbird.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>F6Ss9El+Y8pDP3RvLXpV+aqUHJNGP7GxVfSfwEMEXGo=</DigestValue>
+</Reference>
+<Reference URI="img%2Ftizen_32.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>eDr9ZPFlGlapLDnI1BiALwqovNdBvx3Aspc/lWOH3WI=</DigestValue>
+</Reference>
+<Reference URI="index.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>f2A8NgeW1yhMjmcdLa3Jc8C3AtmmqOX5HU9mXWp4Ivk=</DigestValue>
+</Reference>
+<Reference URI="js%2FRemodal-master.zip">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>z0QD0o2XpzBGPA+8noCirrHFHk45kFsl/aNvDlRMNzg=</DigestValue>
+</Reference>
+<Reference URI="js%2FRemodal-master%2FRemodal-master%2F.bowerrc">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>03A/Ilfkc6PusGaCiwIzeEmpj1th+OsKXf56+j4HfZE=</DigestValue>
+</Reference>
+<Reference URI="js%2FRemodal-master%2FRemodal-master%2F.csscomb.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UgA/nzVmiztmOMPWFTl+up4SRWPsw5kvOK2x5dhDs4Q=</DigestValue>
+</Reference>
+<Reference URI="js%2FRemodal-master%2FRemodal-master%2F.editorconfig">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>sukarhX3xNI4HiDiWqiUGQAxXYqffUCKXZD/qrXOQto=</DigestValue>
+</Reference>
+<Reference URI="js%2FRemodal-master%2FRemodal-master%2F.gitignore">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>py6ouGBzX+lVoh+B2lfcfy2R/rHvZhIaAiw4Es8nXQ0=</DigestValue>
+</Reference>
+<Reference URI="js%2FRemodal-master%2FRemodal-master%2F.jscsrc">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ut0WHuqyGludCjVglMC3NoODS8kyProM3SJbwD48828=</DigestValue>
+</Reference>
+<Reference URI="js%2FRemodal-master%2FRemodal-master%2F.jshintrc">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dFI/oHSfWf7BL62DVRhYGrYQmM9ExHMEOMYxiUxAIag=</DigestValue>
+</Reference>
+<Reference URI="js%2FRemodal-master%2FRemodal-master%2F.travis.yml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4aaLm1zYefk4sTEJCl1DZzgSE0pKrnIatN11IDEKwAE=</DigestValue>
+</Reference>
+<Reference URI="js%2FRemodal-master%2FRemodal-master%2FCHANGELOG.md">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>43czb/cODOFjkcnNrj2/BIVlEV71RhL5v2Ww/hvvoKw=</DigestValue>
+</Reference>
+<Reference URI="js%2FRemodal-master%2FRemodal-master%2FCONTRIBUTING.md">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>HmbSNrpPRmXivp0g9gFY9mI8KhhtmnnTzNrNXeUESI8=</DigestValue>
+</Reference>
+<Reference URI="js%2FRemodal-master%2FRemodal-master%2FGruntfile.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rRGTq1IOU9eW/eEdWiZvqU1OhnPM6ZALg/qh3wUbvsU=</DigestValue>
+</Reference>
+<Reference URI="js%2FRemodal-master%2FRemodal-master%2FLICENSE">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TEFIynQmt0yS7HxLZRtgA7YiJ/a1o8/BVp1lFA6fSng=</DigestValue>
+</Reference>
+<Reference URI="js%2FRemodal-master%2FRemodal-master%2FREADME.md">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>JLQVkfRVeHHHLXrSFm1ZnojzeKQVJzjffVZVoQZD3uw=</DigestValue>
+</Reference>
+<Reference URI="js%2FRemodal-master%2FRemodal-master%2Fbower.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>yJyF7J20Qc6niF12CMl0jHTTIqJmbU2ibuU/nsiiVas=</DigestValue>
+</Reference>
+<Reference URI="js%2FRemodal-master%2FRemodal-master%2Fdist%2Fremodal-default-theme.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>S16zdM+Jf32Xu0p+mOoPFzNfWl2aUb4IyNpJIjeP9NE=</DigestValue>
+</Reference>
+<Reference URI="js%2FRemodal-master%2FRemodal-master%2Fdist%2Fremodal.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>sgqxXOnO8takYrQq/suJ6c5vD4sp7fcyrso3Efty/VE=</DigestValue>
+</Reference>
+<Reference URI="js%2FRemodal-master%2FRemodal-master%2Fdist%2Fremodal.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jujVvGNcc4BsGxOJBABuklcYWNlmXutcII6z1BOuhX0=</DigestValue>
+</Reference>
+<Reference URI="js%2FRemodal-master%2FRemodal-master%2Fdist%2Fremodal.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ixBFdymYCLP3qCb2D4kOj4X7+ygwT8lmmXQJWhPSM38=</DigestValue>
+</Reference>
+<Reference URI="js%2FRemodal-master%2FRemodal-master%2Fexamples%2Findex-zepto.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>f6bBeYd0fQcFkq7zVSFgzm6VfG0mOeWmKjI80zGNaiM=</DigestValue>
+</Reference>
+<Reference URI="js%2FRemodal-master%2FRemodal-master%2Fexamples%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7dfB4KRlVSP8/dptWfxeonFaC+l5b2ItDI5OE4iYsDA=</DigestValue>
+</Reference>
+<Reference URI="js%2FRemodal-master%2FRemodal-master%2Flibs%2Fjquery-loader.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PcOMq3UMzSeM17AnSfV5Sgh9pO4Kigy4lPz/z0ScVOc=</DigestValue>
+</Reference>
+<Reference URI="js%2FRemodal-master%2FRemodal-master%2Fpackage.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>FQ6F5xVDprDPw0C1VweKra66ni+y9eQUEnIDzpkCAyU=</DigestValue>
+</Reference>
+<Reference URI="js%2FRemodal-master%2FRemodal-master%2Fsrc%2Fremodal-default-theme.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>W0z4wNl0yST1dSmE7efE2yV442wUoR1/l1IEJHlot0Y=</DigestValue>
+</Reference>
+<Reference URI="js%2FRemodal-master%2FRemodal-master%2Fsrc%2Fremodal.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6YznbJ5Znre8dC6wrRJIrMDq1z+8zIYeIRLtmFDpeXQ=</DigestValue>
+</Reference>
+<Reference URI="js%2FRemodal-master%2FRemodal-master%2Fsrc%2Fremodal.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>KURGHwGfrRsAw5C0toGhlGY8m+42UFGd28tDRLuWWNs=</DigestValue>
+</Reference>
+<Reference URI="js%2FRemodal-master%2FRemodal-master%2Ftest%2F.jshintrc">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>EXd8mBkIbgZxMWHlCGQ4E1eeFWBnCa72mbSa02PzZow=</DigestValue>
+</Reference>
+<Reference URI="js%2FRemodal-master%2FRemodal-master%2Ftest%2Fremodal.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XrRoRYr65xAyWFaEC6p+9wcv3mUlXe0+NEWLNclz5pc=</DigestValue>
+</Reference>
+<Reference URI="js%2FRemodal-master%2FRemodal-master%2Ftest%2Fremodal_test.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>d0mLSKgmFTKSBIHVZoaFM/wQDQxnn2zRb8lwFa/p6Fg=</DigestValue>
+</Reference>
+<Reference URI="js%2Fjquery.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3ks8PR3CUGtmk/D5iITh3AdM2p1myrObe0ihFf38TA8=</DigestValue>
+</Reference>
+<Reference URI="js%2Fmain.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>c3Ni4N04BYqyH+VsN0/KCXn9AEzp4aYfz+g0+YKolr0=</DigestValue>
+</Reference>
+<Reference URI="#prop">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2006/12/xml-c14n11"></Transform>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lpo8tUDs054eLlBQXiDPVDVKfw30ZZdtkRs1jd7H5K8=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+o6wralknzoQrrLnkcW/1bPpfX0C9NNhdKLbirpCJ1AOG/vkN2CK6/8gAmMgtMgdcYFYVCmIKrQLp
+e2cSbruWHidUPJnNegRxHbP37yrC4duCWoizdazjpclYmtf4JzvKjIJjasAbj4S6L/K8aVosel6r
+qgA+pGZ3FTWFqNkqYUk=
+</SignatureValue>
+<KeyInfo>
+<X509Data>
+<X509Certificate>
+MIIClTCCAX2gAwIBAgIGAVFydiQmMA0GCSqGSIb3DQEBBQUAMFYxGjAYBgNVBAoMEVRpemVuIEFz
+c29jaWF0aW9uMRowGAYDVQQLDBFUaXplbiBBc3NvY2lhdGlvbjEcMBoGA1UEAwwTVGl6ZW4gRGV2
+ZWxvcGVycyBDQTAeFw0xMjExMDEwMDAwMDBaFw0xOTAxMDEwMDAwMDBaMBExDzANBgNVBAMMBmF1
+dGhvcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA16nLae743uYZkFJ+S9uGTvRqvzxidVJk
+0dBFKcxGQRfYKt/MFRyYkAgNzRjkDsBlR6wvbVHkxhRDIyphVhCkSAqz2jIxC+K685CsAeW/guJ7
+39Q2E4uk5hN96kx1WIVLZQ6BP0mkOS9ZYofnPeahzRlvTmL0aQxG56Ukb3slMZ0CAwEAAaMyMDAw
+DAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUHAwMwDQYJKoZIhvcN
+AQEFBQADggEBAG6cuETBQF/2tJcHM2SePGNNnageN+vBR580XQdsdWS5amuJjZzTdpV0tRUCuO6P
+6eKGDcbF+50yer8bjidyn5393AWKlKpJ6CqE37sSlaWBsLb2D3FAN4wuA1iYauXG75Pqa79hlvg+
+tdApLJqwl3OqU1lQT0dxLncY7epqex2ZOXOGD/EcJIjpC3mDcAEj9IdlwQFhKquatOAlwjM+evPJ
+WlVqh1QahTrOCsU7On4Ug425p4Z9Yy4m11lOaHmQEVtrcENotz0zPFS+gp9zDKHM+vc2hrbGs90J
+KfvrrJDiZMKj/j15qjEe4rir5pMCaGkgRftcDnSZ8oZsOPQaK2s=
+</X509Certificate>
+<X509Certificate>
+MIIDOTCCAiGgAwIBAgIBATANBgkqhkiG9w0BAQUFADBYMRowGAYDVQQKDBFUaXplbiBBc3NvY2lh
+dGlvbjEaMBgGA1UECwwRVGl6ZW4gQXNzb2NpYXRpb24xHjAcBgNVBAMMFVRpemVuIERldmVsb3Bl
+cnMgUm9vdDAeFw0xMjAxMDEwMDAwMDBaFw0yNzAxMDEwMDAwMDBaMFYxGjAYBgNVBAoMEVRpemVu
+IEFzc29jaWF0aW9uMRowGAYDVQQLDBFUaXplbiBBc3NvY2lhdGlvbjEcMBoGA1UEAwwTVGl6ZW4g
+RGV2ZWxvcGVycyBDQTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANVGhRGmMIUyBA7o
+PCz8Sxut6z6HNkF4oDIuzuKaMzRYPeWodwe9O0gmqAkToQHfwg2giRhE5GoPld0fq+OYMMwSasCu
+g8dwODx1eDeSYVuOLWRxpAmbTXOsSFi6VoWeyaPEm18JBHvZBsU5YQtgZ6Kp7MqzvQg3pXOxtajj
+vyHxiatJl+xXrHgcXC1wgyG3buty7u/Fi2mvKXJ0PRJcCjjK81dqe/Vr20sRUCrbk02zbm5ggFt/
+jIEhV8wbFRQpliobc7J4dSTKhFfrqGM8rdd54LYhD7gSI1CFSe16pUXfcVR7FhJztRaiGLnCrwBE
+dyTZ248+D4L/qR/D0axb3jcCAwEAAaMQMA4wDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQUFAAOC
+AQEAnOXXQ/1O/QTDHyrmQDtFziqPY3xWlJBqJtEqXiT7Y+Ljpe66e+Ee/OjQMlZe8gu21/8cKklH
+95RxjopMWCVedXDUbWdvS2+CdyvVW/quT2E0tjqIzXDekUTYwwhlPWlGxvfj3VsxqSFq3p8Brl04
+1Gx5RKAGyKVsMfTLhbbwSWwApuBUxYfcNpKwLWGPXkysu+HctY03OKv4/xKBnVWiN8ex/Sgesi0M
++OBAOMdZMPK32uJBTeKFx1xZgTLIhk45V0hPOomPjZloiv0LSS11eyd451ufjW0iHRE7WlpR6EvI
+W6TFyZgMpQq+kg4hWl2SBTf3s2VI8Ygz7gj8TMlClg==
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+<Object Id="prop"><SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties"><SignatureProperty Id="profile" Target="#AuthorSignature"><dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile"></dsp:Profile></SignatureProperty><SignatureProperty Id="role" Target="#AuthorSignature"><dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-author"></dsp:Role></SignatureProperty><SignatureProperty Id="identifier" Target="#AuthorSignature"><dsp:Identifier></dsp:Identifier></SignatureProperty></SignatureProperties></Object>
+</Signature>
