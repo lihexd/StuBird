@@ -2,7 +2,8 @@
 
 ## 概述
 
-StuBird 是一款类似于flappy bird的游戏，但在基本的游戏乐趣上加入了HTML5的一些简单的问答系统，在享受游戏的同时又能了解一些HTML5的小知识。## 算法介绍
+StuBird 是一款类似于flappy bird的游戏，但在基本的游戏乐趣上加入了HTML5的一些简单的问答系统，在享受游戏的同时又能了解一些HTML5的小知识。
+## 算法介绍
 
 StuBird基于TIZEN web project开发，主要使用了Html与Javascript技术。通过click方法中监测用户的点击。
 ```js
