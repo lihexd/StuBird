@@ -1,4 +1,4 @@
-# Tizen-App-MathTool
+# Tizen-App-StuBird
 
 ## 概述
 
